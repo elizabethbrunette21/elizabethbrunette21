@@ -1,4 +1,4 @@
-# Hi，我是 Elizabeth 👋
+# Hi，我是 Lizzie 👋
 
 专注于 AI Agent 应用开发，构建基于大模型的智能应用、RAG 系统与 Agent Workflow。
 
